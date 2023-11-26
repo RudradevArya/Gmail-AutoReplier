@@ -1,0 +1,9 @@
+# .gitignore
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+credentials.json
+Notes.txt
+token.json
